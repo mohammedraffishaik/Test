@@ -7,6 +7,8 @@ public class TestGit {
 		System.out.println("Raffi, Welcome to Git! First Push");
 		
 		System.out.println("Raffi, Welcome to Git! Fetch and Push");
+		
+		System.out.println("Raffi, 1");
 	}
 
 }
