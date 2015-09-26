@@ -13,6 +13,8 @@ public class TestGit {
 		System.out.println("Raffi, 2");
 		
 		System.out.println("Master New");
+		
+		System.out.println("Master New 1");
 	}
 
 }
