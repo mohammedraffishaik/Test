@@ -12,7 +12,7 @@ public class TestGit {
 		
 		System.out.println("Raffi, 2");
 		
-		System.out.println("Master");
+		System.out.println("Branch1");
 	}
 
 }
