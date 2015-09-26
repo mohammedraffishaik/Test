@@ -11,6 +11,8 @@ public class TestGit {
 		System.out.println("Raffi, 1");
 		
 		System.out.println("Raffi, 2");
+		
+		System.out.println("Master");
 	}
 
 }
