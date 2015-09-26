@@ -15,6 +15,8 @@ public class TestGit {
 		System.out.println("Master New");
 		
 		System.out.println("Master New 1");
+		
+		System.out.println("From Other 1");
 	}
 
 }
